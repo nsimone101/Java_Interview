@@ -1,4 +1,6 @@
-public class Java_Demo {
+import java.util.*;
+
+public class JavaDemo {
     public static void main(String args[]){
         System.out.println("Hello World!");
     }
